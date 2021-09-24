@@ -10,6 +10,8 @@ Clone da página da Netflix utilizando ReactJS.
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [React](https://pt-br.reactjs.org/)
+- [npm](https://www.npmjs.com/)
+- [MUI](https://mui.com/pt/)
 - [API TMDB](https://www.themoviedb.org/documentation/api)
 
 &nbsp;
