@@ -16,9 +16,14 @@ Clone da página da Netflix utilizando ReactJS.
 
 &nbsp;
 
-![Netflix Clone](https://j.gifs.com/57lKJR.gif)
+Para acessar a postagem sobre o projeto:
+
+<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6848041460642676736" target="_blank">
+        <img src="https://i.ibb.co/5xq7VyX/image.png">
+</a>
 
 &nbsp;
+
 
 <a href="https://www.linkedin.com/in/claudia-nogueira-dos-anjos-b71726215/" target="_blank">
         <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-nogueira-dos-anjos-093407180/">
