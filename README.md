@@ -16,7 +16,7 @@ Clone da página da Netflix utilizando ReactJS.
 
 &nbsp;
 
-Para acessar a postagem sobre o projeto:
+Para acessar a postagem sobre o projeto no Linkedin:
 
 <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6848041460642676736" target="_blank">
         <img src="https://i.ibb.co/5xq7VyX/image.png">
