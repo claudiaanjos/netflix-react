@@ -16,10 +16,9 @@ Clone da página da Netflix utilizando ReactJS.
 
 &nbsp;
 
-Você pode acessar a postagem sobre o projeto no Linkedin [aqui](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6848041460642676736)
+Você pode acessar a postagem sobre o projeto no Linkedin [aqui](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6848041460642676736).
 
-&nbsp;
-
+#
 
 <div>
   <p align="left">
