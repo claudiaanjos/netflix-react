@@ -1,5 +1,9 @@
 # Clone da Netflix com ReactJS
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### Projeto desenvolvido para consolidar os conhecimentos de React.
 
 ### 📚  Descrição
